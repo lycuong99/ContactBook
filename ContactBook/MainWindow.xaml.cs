@@ -1,5 +1,4 @@
-﻿using ContactBook.ViewModels;
-using ContactBook.Views;
+﻿using ContactBook.Views;
 using System;
 using System.Collections.Generic;
 using System.Linq;
